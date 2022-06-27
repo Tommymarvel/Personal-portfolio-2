@@ -4,6 +4,8 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  text-decoration: none;
+  color: #7f8cff;
 }
 
 body {
@@ -59,7 +61,6 @@ body {
 
 .nav .logo {
   text-decoration: none;
-  color: #7f8cff;
   font-family: "poppins", sans-serif;
   font-weight: 600;
   font-size: 20px;
