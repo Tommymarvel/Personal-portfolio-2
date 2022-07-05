@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Mobile portfolio Project For Microverse By Tommy Marvel
+# Mobile portfolio Project For Microverse By Chimwemwe Mkandawire
 
 > This is a simple web develoment project for microverse created using simple HTML(Hyper text mark-up Language.) and CSS(Cascading Style Sheet) which is used for styling or decorating the webpage.
 
-
+![screenshot](Capture.png)
 
 Additional description about the project and its features.
 
@@ -17,18 +17,19 @@ Additional description about the project and its features.
 
 **Instructions on how to access my project locally.**
  To Access my project locally please follow the following instructions;
-1. Enter this url:  https://github.com/Tommymarvel/Personal-portfolio-2/tree/mobile-version in your web browser.
+1. Enter this url:  https://github.com/chimwemwe007/My-Portfolio-1 in your web browser.
 2. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 3. Select download Zip option from drop down menu.
 4. Once the download is complete you will be able to access my project locally.
-Here is my repository link: https://github.com/Tommymarvel/Personal-portfolio-2/tree/main
+Here is my repository link:  https://github.com/chimwemwe007/My-Portfolio
 
 
 ## Authors
 
-👤 **Tommy Marvel**
-- GitHub: (https://github.com/tommymarvel)
-- Twitter: [@tomiwa_ibironke](https://twitter.com/tomiwa_ibironke) 
+👤 **Chimwemwe Mkandawire**
+- GitHub: [https://github.com/chimwemwe007/)
+- Twitter: [@CHXMZMK](https://twitter.com/CHXMZMK) 
+)
 
 
 ## 🤝 Contributing
@@ -42,9 +43,9 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Microverse
-- Figma template
+
 - Hat tip to anyone whose code was used
+- Inspiration
 - etc
 
 ## 📝 License
