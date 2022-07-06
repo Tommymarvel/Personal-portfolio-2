@@ -590,6 +590,7 @@ textarea {
 .contact-form-section textarea::placeholder {
   color: #b3bac5;
 }
+
 .contact-form-section textarea {
   font-style: normal;
   font-weight: 400;
