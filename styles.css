@@ -587,6 +587,10 @@ textarea {
   color: #172b4d;
 }
 
+.contact-form-section textarea::placeholder {
+  color: #b3bac5;
+}
+
 .contact-form-section textarea {
   font-style: normal;
   font-weight: 400;
@@ -1240,3 +1244,5 @@ textarea {
     color: #b3bac5;
   }
 }
+
+
