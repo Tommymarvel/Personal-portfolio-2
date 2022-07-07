@@ -41,7 +41,6 @@ body {
 
 #hambuger {
   cursor: pointer;
-  padding-right: 15px;
 }
 
 .text {
@@ -492,7 +491,7 @@ a .btn-two {
 .contact-form-section {
   width: 100%;
   background: #6070ff;
-  background-image: url(./image/Cbackground.png);
+  background-image: url(./images/contact-form-shape-mobile.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 143px 11px;
@@ -647,6 +646,59 @@ textarea {
     padding-right: 20px;
     letter-spacing: 0.37px;
     cursor: pointer;
+    animation-name: salutation;
+    animation-duration: 15s;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-play-state: running;
+  }
+
+  @keyframes salutation {
+    0% {
+      color: #7f8cff;
+    }
+
+    10% {
+      color: #4472e7;
+    }
+
+    20% {
+      color: blueviolet;
+    }
+
+    30% {
+      color: red;
+    }
+
+    40% {
+      color: yellow;
+    }
+
+    50% {
+      color: green;
+    }
+
+    60% {
+      color: #b3bac5;
+    }
+
+    70% {
+      color: coral;
+    }
+
+    80% {
+      color: teal;
+    }
+
+    90% {
+      color: maroon;
+    }
+
+    100% {
+      color: aqua;
+    }
   }
 
   .lets-connect {
@@ -714,7 +766,6 @@ textarea {
 
   .paragraph1 {
     margin: 10px 0;
-    width: 751px;
     margin-left: 0;
     font-weight: 400;
     font-size: 16px;
@@ -732,7 +783,7 @@ textarea {
   }
 
   .first-section {
-    background-image: url("./images/background.png");
+    background-image: url("./images/desktop\ v.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -741,8 +792,8 @@ textarea {
     border: 1px solid white;
     border-bottom-left-radius: 110px;
     height: 916px;
-    padding-right: 260px;
-    padding-left: 424px;
+    padding-right: 110px;
+    padding-left: 219px;
     padding-top: 307px;
     padding-bottom: 257px;
     top: 1px;
