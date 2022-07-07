@@ -716,7 +716,7 @@ textarea {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    padding-left: 155px;
+    padding-left: 6px;
     line-height: 20px;
     color: #6070ff;
     background-color: #fff;
@@ -834,6 +834,7 @@ textarea {
     background-image: url("./images/card4.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
   }
 
   .snap2 {
@@ -845,28 +846,31 @@ textarea {
     background-image: url("./images/card.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
   }
 
   .snap3 {
     height: 448px;
-    width: 544px;
+    width: 100%;
     left: 16px;
     top: 16px;
     border-radius: 8px;
     background-image: url("./images/card1.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
   }
 
   .snap4 {
     height: 448px;
-    width: 544px;
+    width: 100%;
     left: 16px;
     top: 16px;
     border-radius: 8px;
     background-image: url("./images/card2.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
   }
 
   .left1 {
@@ -982,6 +986,19 @@ textarea {
     font-family: Poppins, sans-serif;
     font-weight: bold;
     background-color: #fff;
+  }
+
+  .butt {
+    border: 2px solid #4472e7;
+    padding: 8px;
+    color: #4472e7;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: large;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    background-color: #fff;
+    margin-left: 86px;
   }
 
   .btn-one {
