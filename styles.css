@@ -59,6 +59,59 @@ body {
   line-height: 52px;
   padding-right: 20px;
   cursor: pointer;
+  animation-name: salutation;
+  animation-duration: 15s;
+  animation-timing-function: linear;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-play-state: running;
+}
+
+@keyframes salutation {
+  0% {
+    color: #7f8cff;
+  }
+
+  10% {
+    color: #4472e7;
+  }
+
+  20% {
+    color: blueviolet;
+  }
+
+  30% {
+    color: red;
+  }
+
+  40% {
+    color: yellow;
+  }
+
+  50% {
+    color: green;
+  }
+
+  60% {
+    color: #b3bac5;
+  }
+
+  70% {
+    color: coral;
+  }
+
+  80% {
+    color: teal;
+  }
+
+  90% {
+    color: maroon;
+  }
+
+  100% {
+    color: aqua;
+  }
 }
 
 .lets-connect {
